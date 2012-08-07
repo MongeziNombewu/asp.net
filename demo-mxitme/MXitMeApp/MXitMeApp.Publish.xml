@@ -1,0 +1,76 @@
+<publishData>
+  <publishTarget publishUrl="C:\MXit\code.mxit.com\botproxy\botproxy_test\botproxy_test\mxit-mobi-portals-samples\asp.net\demo-mxitme\MXitMeApp\publish\">
+    <file relUrl="img/shirt_character_orig.png" publishTime="08/03/2011 10:05:26" />
+    <file relUrl="img/Bhair_character.png" publishTime="08/03/2011 10:05:25" />
+    <file relUrl="img/Beyes_character.png" publishTime="08/03/2011 10:05:26" />
+    <file relUrl="libs/json2.js" publishTime="11/02/2010 11:40:23" />
+    <file relUrl="Post.aspx" publishTime="08/03/2011 10:05:26" />
+    <file relUrl="img/outline_character.png" publishTime="08/03/2011 10:05:26" />
+    <file relUrl="Web.config" publishTime="08/03/2011 10:05:26" />
+    <file relUrl="img/hair_character.png" publishTime="08/03/2011 10:05:25" />
+    <file relUrl="libs/mxit-gaming.css" publishTime="11/02/2010 11:40:23" />
+    <file relUrl="img/Bmouth_character.png" publishTime="08/03/2011 10:05:25" />
+    <file relUrl="img/Bshoes_character.png" publishTime="08/03/2011 10:05:25" />
+    <file relUrl="bin/MXitExternalAppSDK.dll" publishTime="10/22/2010 17:18:14" />
+    <file relUrl="img/eyes_character.png" publishTime="08/03/2011 10:05:26" />
+    <file relUrl="bin/MXitMeApp.dll" publishTime="08/03/2011 10:16:28" />
+    <file relUrl="img/mouth_character.png" publishTime="08/03/2011 10:05:25" />
+    <file relUrl="img/Boutline_character.png" publishTime="08/03/2011 10:05:25" />
+    <file relUrl="img/shoes_character.png" publishTime="08/03/2011 10:05:25" />
+    <file relUrl="bin/MXitMeApp.pdb" publishTime="08/03/2011 10:16:27" />
+    <file relUrl="img/Bdungaree_character.png" publishTime="08/03/2011 10:05:25" />
+    <file relUrl="libs/game-api-current.js" publishTime="12/10/2010 15:48:21" />
+    <file relUrl="img/Bbackground.png" publishTime="08/03/2011 10:05:26" />
+    <file relUrl="img/background.png" publishTime="08/03/2011 10:05:25" />
+    <file relUrl="img/Bshirt_character.png" publishTime="08/03/2011 10:05:25" />
+    <file relUrl="img/Bbackground2.png" publishTime="08/03/2011 10:05:25" />
+    <file relUrl="Default.aspx" publishTime="08/03/2011 10:05:26" />
+    <file relUrl="img/Bmouth.png" publishTime="08/03/2011 10:05:25" />
+    <file relUrl="img/dungaree_character_orig.png" publishTime="08/03/2011 10:05:26" />
+    <file relUrl="img/dungaree_character.png" publishTime="08/03/2011 10:05:25" />
+    <file relUrl="img/background2.png" publishTime="08/03/2011 10:05:25" />
+    <file relUrl="img/shirt_character.png" publishTime="08/03/2011 10:05:25" />
+  </publishTarget>
+  <publishTarget publishUrl="\\samsdevgen02\f$\RnD\Websites\mxitme\">
+    <file relUrl="img/Bbackground.png" publishTime="05/27/2010 14:04:45" />
+    <file relUrl="bin/Com.Mxit.Core.Service.Interfaces.pdb" publishTime="05/26/2010 10:52:39" />
+    <file relUrl="libs/game-api-current.js" publishTime="05/27/2010 09:52:45" />
+    <file relUrl="bin/log4net.dll" publishTime="05/26/2010 10:52:39" />
+    <file relUrl="img/Beyes_character.png" publishTime="05/27/2010 14:04:45" />
+    <file relUrl="img/outline_character.png" publishTime="05/27/2010 14:04:45" />
+    <file relUrl="img/dungaree_character.png" publishTime="05/27/2010 14:04:45" />
+    <file relUrl="bin/log4net.xml" publishTime="05/26/2010 10:52:39" />
+    <file relUrl="libs/jquery-1.4.2.js" publishTime="05/24/2010 10:01:19" />
+    <file relUrl="img/eyes_character.png" publishTime="05/27/2010 14:04:45" />
+    <file relUrl="img/background2.png" publishTime="05/27/2010 14:04:45" />
+    <file relUrl="bin/MXit.Common.dll" publishTime="05/26/2010 10:52:39" />
+    <file relUrl="img/Bshoes_character.png" publishTime="05/27/2010 14:04:45" />
+    <file relUrl="bin/Com.Mxit.Core.Service.Interfaces.dll" publishTime="05/26/2010 10:52:39" />
+    <file relUrl="img/background.png" publishTime="05/27/2010 14:04:45" />
+    <file relUrl="libs/mxit-gaming.css" publishTime="05/24/2010 10:01:19" />
+    <file relUrl="Web.config" publishTime="05/20/2010 14:46:44" />
+    <file relUrl="bin/MXit.Common.xml" publishTime="05/26/2010 10:52:39" />
+    <file relUrl="img/dungaree_character_orig.png" publishTime="05/27/2010 14:04:45" />
+    <file relUrl="bin/MXit.Common.pdb" publishTime="05/26/2010 10:52:39" />
+    <file relUrl="Post.aspx" publishTime="05/27/2010 11:02:14" />
+    <file relUrl="img/Bbackground2.png" publishTime="05/27/2010 14:04:45" />
+    <file relUrl="bin/MXitMeApp.pdb" publishTime="05/27/2010 14:22:16" />
+    <file relUrl="img/Bmouth_character.png" publishTime="05/27/2010 14:04:45" />
+    <file relUrl="img/Bshirt_character.png" publishTime="05/27/2010 14:23:10" />
+    <file relUrl="img/shirt_character.png" publishTime="05/27/2010 14:23:17" />
+    <file relUrl="img/Bmouth.png" publishTime="05/27/2010 14:04:45" />
+    <file relUrl="bin/MXit.dll" publishTime="05/26/2010 10:52:39" />
+    <file relUrl="bin/MXit.pdb" publishTime="05/26/2010 10:52:39" />
+    <file relUrl="bin/MXitMeApp.dll" publishTime="05/27/2010 14:22:17" />
+    <file relUrl="libs/json2.js" publishTime="05/24/2010 10:01:19" />
+    <file relUrl="img/shirt_character_orig.png" publishTime="05/27/2010 14:22:07" />
+    <file relUrl="img/shoes_character.png" publishTime="05/27/2010 14:04:45" />
+    <file relUrl="img/hair_character.png" publishTime="05/27/2010 14:04:45" />
+    <file relUrl="img/Boutline_character.png" publishTime="05/27/2010 14:04:45" />
+    <file relUrl="img/Bhair_character.png" publishTime="05/27/2010 14:04:45" />
+    <file relUrl="img/Bdungaree_character.png" publishTime="05/27/2010 14:04:45" />
+    <file relUrl="bin/MXit.xml" publishTime="05/26/2010 10:52:39" />
+    <file relUrl="Default.aspx" publishTime="05/27/2010 13:16:47" />
+    <file relUrl="img/mouth_character.png" publishTime="05/27/2010 14:04:45" />
+  </publishTarget>
+</publishData>
